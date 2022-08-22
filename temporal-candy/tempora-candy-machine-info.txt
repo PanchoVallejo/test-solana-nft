@@ -1,0 +1,4 @@
+Candy machine ID: COMPLETE THIS
+Collection mint ID: COMPLETE THIS
+
+Arwave URL (This is needed to use it on the hidden-settings on the main candy machine):

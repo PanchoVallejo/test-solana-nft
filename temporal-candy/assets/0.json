@@ -1,0 +1,15 @@
+{
+  "name": "My bads beiby",
+  "symbol": "MBS",
+  "description": "Testing new colection",
+  "image": "collection.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "collection.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
