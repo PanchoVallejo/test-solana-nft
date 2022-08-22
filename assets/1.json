@@ -1,0 +1,24 @@
+{
+  "name": "new 2",
+  "symbol": "MBS",
+  "description": "ESTO ES NUEVO",
+  "image": "1.png",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "1"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

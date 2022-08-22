@@ -1,0 +1,24 @@
+{
+  "name": "new 4",
+  "symbol": "MBS",
+  "description": "ESTO ES NUEVO",
+  "image": "3.png",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "4"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

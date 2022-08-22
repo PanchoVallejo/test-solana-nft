@@ -1,0 +1,24 @@
+{
+  "price": 0.3,
+  "number": 4,
+  "symbol": "MBS",
+  "sellerFeeBasisPoints": 500,
+  "gatekeeper": null,
+  "solTreasuryAccount": "3gsK3RzxPWdgFqJmHuvVX7dZzJuJMMMU5v585tAMfnJx",
+  "splTokenAccount": null,
+  "splToken": null,
+  "goLiveDate": "2022-08-20T13:00:00Z",
+  "endSettings": null,
+  "whitelistMintSettings": null,
+  "hiddenSettings": null,
+  "uploadMethod": "bundlr",
+  "awsS3Bucket": null,
+  "retainAuthority": true,
+  "isMutable": true,
+  "creators": [
+    {
+      "address": "3gsK3RzxPWdgFqJmHuvVX7dZzJuJMMMU5v585tAMfnJx",
+      "share": 100
+    }
+  ]
+}
