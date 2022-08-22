@@ -1,6 +1,13 @@
 # General guide for uploading nfts
 Full guide: https://www.quicknode.com/guides/web3-sdks/how-to-deploy-an-nft-collection-on-solana-using-sugar-candy-machine
-## Steps to upload a test nft on Windows 
+## Steps to upload a test nft on Windows
+
+IMPORTANT: 
+
+* To create an Incremental Collection we need to use 2 candy machines, one to upload the "first" image and the 
+other one to create it with hidden settings
+* Also we need to withdraw the funds used on the first candy machine
+* 
 
 1. Install Sugar & solana on cmd
 
@@ -33,6 +40,7 @@ Full guide: https://www.quicknode.com/guides/web3-sdks/how-to-deploy-an-nft-coll
 7. Mount Candi machine UI & install yarn dependencies
 
 ``git clone https://github.com/metaplex-foundation/candy-machine-ui ./candy-machine-ui/``
+
 
 ## Steps to upload a real nft on Windows 
 

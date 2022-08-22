@@ -10,7 +10,11 @@
   "goLiveDate": "2022-08-20T13:00:00Z",
   "endSettings": null,
   "whitelistMintSettings": null,
-  "hiddenSettings": null,
+  "hiddenSettings": {
+    "name": "Testing collection",
+    "uri": "https://URLTOASSETS.com",
+    "hash": "32CharactersRandom"
+  },
   "uploadMethod": "bundlr",
   "awsS3Bucket": null,
   "retainAuthority": true,
